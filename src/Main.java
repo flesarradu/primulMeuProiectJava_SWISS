@@ -52,8 +52,8 @@ public class Main {
             return;
         }
         else {
-            afiseazaFibo(n-1);
-            System.out.println(fiboRec(n));
+            afiseazaFibo(n-2);
+            System.out.println("Fibo: " + fiboRec(n));
         }
     }
     //fiboRec(10)
