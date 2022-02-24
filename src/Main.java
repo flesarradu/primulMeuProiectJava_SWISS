@@ -53,7 +53,7 @@ public class Main {
         }
         else {
             afiseazaFibo(n-2);
-            System.out.println("Fibo: " + fiboRec(n));
+            System.out.println("Fibo 2: " + fiboRec(n));
         }
     }
     //fiboRec(10)
